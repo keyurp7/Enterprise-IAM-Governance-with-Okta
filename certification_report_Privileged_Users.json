@@ -1,0 +1,95 @@
+{
+  "group_name": "Privileged_Users",
+  "group_id": "00gv8ytbonNCH9vrp697",
+  "total_members": 1,
+  "high_risk_users": 1,
+  "generated_date": "2025-09-10T04:05:04.402222",
+  "certification_data": [
+    {
+      "user_id": "00uv7bx3r4i3fwb8b697",
+      "email": "Keyur_7@outlook.com",
+      "first_name": "KP",
+      "last_name": "Purohit",
+      "department": "IT",
+      "account_type": "privileged",
+      "manager_email": "No manager assigned",
+      "last_login": null,
+      "risk_score": 8,
+      "requires_review": true,
+      "applications": [
+        {
+          "id": "aucv9jzq9c1TksJE2697",
+          "label": "Github",
+          "linkUrl": "https://integrator-4203250-admin.okta.com/home/github/0oav8zjjas1yAKTvx697/226",
+          "logoUrl": "https://ok14static.oktacdn.com/bc/globalFileStoreRecord?id=gfs1ii1vw5nVdOobf1d8",
+          "appName": "github",
+          "appInstanceId": "0oav8zjjas1yAKTvx697",
+          "appAssignmentId": "0uav9jzq9beSZPXEP697",
+          "credentialsSetup": false,
+          "hidden": false,
+          "sortOrder": 4
+        },
+        {
+          "id": "aucv9jzq9fgZYOXyt697",
+          "label": "Demo Corporate Portal",
+          "linkUrl": "https://integrator-4203250-admin.okta.com/home/integrator-4203250_democorporateportal_1/0oav8zwyjz3Fw1Tot697/alnv90a4yrFFWwAZe697",
+          "logoUrl": "https://ok14static.oktacdn.com/assets/img/logos/default.6770228fb0dab49a1695ef440a5279bb.png",
+          "appName": "integrator-4203250_democorporateportal_1",
+          "appInstanceId": "0oav8zwyjz3Fw1Tot697",
+          "appAssignmentId": "0uav9jzq9e5QsDB6X697",
+          "credentialsSetup": true,
+          "hidden": false,
+          "sortOrder": 5
+        },
+        {
+          "id": "aucv7d1mifDuGp2Kf697",
+          "label": "Okta Access Certification Reviews",
+          "linkUrl": "https://integrator-4203250-admin.okta.com/home/okta_iga_reviewer/0oav7cqpy7ldHR7Wk697/aln99ley5E1bkaiQF0g6",
+          "logoUrl": "https://ok14static.oktacdn.com/assets/img/logos/iga_reviewer_app_logo.2c68be805203d9708e6bc63179a9e0ae.png",
+          "appName": "okta_iga_reviewer",
+          "appInstanceId": "0oav7cqpy7ldHR7Wk697",
+          "appAssignmentId": "0uav7d1mieeCJo75M697",
+          "credentialsSetup": true,
+          "hidden": false,
+          "sortOrder": 1
+        },
+        {
+          "id": "aucv7gwj83Cltr8P7697",
+          "label": "Okta Access Requests",
+          "linkUrl": "https://integrator-4203250-admin.okta.com/home/okta_atspoke_sso/0oav7gvvme5EY8Yt9697/aln4kx1q29VJxjmsf0g6",
+          "logoUrl": "https://ok14static.oktacdn.com/assets/img/logos/access-requests.38f27b44fd1ce6437889d478b381f5b7.png",
+          "appName": "okta_atspoke_sso",
+          "appInstanceId": "0oav7gvvme5EY8Yt9697",
+          "appAssignmentId": "0uav7gwj82uz0djN8697",
+          "credentialsSetup": true,
+          "hidden": false,
+          "sortOrder": 2
+        },
+        {
+          "id": "aucv7d07nh7jrgGXQ697",
+          "label": "Okta Workflows",
+          "linkUrl": "https://integrator-4203250-admin.okta.com/home/okta_flow_sso/0oav5dy3p4W3fFzUQ697/alnbibn6b0OPFATt20g7",
+          "logoUrl": "https://ok14static.oktacdn.com/assets/img/logos/okta-workflows.27df74eb53570679e5cc3a4b0f160602.png",
+          "appName": "okta_flow_sso",
+          "appInstanceId": "0oav5dy3p4W3fFzUQ697",
+          "appAssignmentId": "0uav7d07ngwr5ezfl697",
+          "credentialsSetup": true,
+          "hidden": false,
+          "sortOrder": 0
+        },
+        {
+          "id": "aucv7tbijpjcngVgG697",
+          "label": "Slack",
+          "linkUrl": "https://integrator-4203250-admin.okta.com/home/slack/0oav7sxqq6usukF0F697/19411",
+          "logoUrl": "https://ok14static.oktacdn.com/fs/bcg/4/gfs2b5hcpi7zg4whf697",
+          "appName": "slack",
+          "appInstanceId": "0oav7sxqq6usukF0F697",
+          "appAssignmentId": "0uav7tbijozt9xgLj697",
+          "credentialsSetup": true,
+          "hidden": false,
+          "sortOrder": 3
+        }
+      ]
+    }
+  ]
+}

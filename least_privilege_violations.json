@@ -1,0 +1,13 @@
+[
+  {
+    "user_id": "00uv7bx3r4i3fwb8b697",
+    "user_email": "Keyur_7@outlook.com",
+    "groups": [
+      "Everyone",
+      "IT_Department",
+      "Privileged_Users"
+    ],
+    "privileged_group_count": 1,
+    "detected_date": "\"2025-09-08T05:32:40.000Z\""
+  }
+]
