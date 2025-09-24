@@ -10,7 +10,7 @@ celery==5.3.4
 # Authentication & Security
 passlib[bcrypt]==1.7.4
 pyjwt==2.8.0
-cryptography==41.0.8
+cryptography==44.0.1
 oauthlib==3.2.2
 
 # Okta Integration
